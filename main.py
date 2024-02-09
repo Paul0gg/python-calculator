@@ -9,7 +9,7 @@ def calculate():
 
 # Create the main window
 root = tk.Tk()
-root.title("Simple Calculator")
+root.title("Calculator")
 
 # Entry widget to take user input
 entry = tk.Entry(root, width=30)
